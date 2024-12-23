@@ -1,0 +1,2 @@
+# TranslatorBot
+Translator Bot loyihasi
